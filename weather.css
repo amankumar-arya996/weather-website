@@ -8,9 +8,10 @@ body{
 #container{
     height: 80vh;
     width: 80%;
-    position: relative;;
+    position: relative;
     background-image: url(craiyon_202022_a_image_for_background_weather_app__day.png);
     margin: 0 auto;
+    top: 10vh;
     text-align: center;
     align-content: center;
     margin-top: 60px;
@@ -38,6 +39,14 @@ button{
     height: 28px;
     border-radius: 5px;
     background-color:  #c1f0c1;
-    ;
+    
 
+}
+@media screen and (min-width: 310px) {
+    #container{
+        height: 80vh;
+        width: 80%;
+        margin: 0 auto;
+        background-size: cover;
+    }
 }
