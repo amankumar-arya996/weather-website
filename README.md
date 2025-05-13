@@ -1,7 +1,7 @@
 # simple weather wesite 
 # using HTML ,CSS, Javascript and API
-Used weatherbit api to fetch the weather data
+Used weatherbit api to fetch the weather data.
 # please use your api key of weatherbit api
-to use you have to simply search the city by name and you will get the data
+to use you have to simply search the city by name and you will get the data.
 
 
