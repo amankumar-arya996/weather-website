@@ -21,6 +21,7 @@ h1{
     color: white;
     font-weight: bold;
 }
+
 input{
 height: 30px;
 border-radius: 5px;
@@ -28,7 +29,6 @@ border: 2px solid black;
 background-color:   #c1f0c1;
 font-size: 15px;
 
-;
 }
 #result{
     font-weight: bold;
